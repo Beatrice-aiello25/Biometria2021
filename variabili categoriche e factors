@@ -1,7 +1,7 @@
 # seconda parte lezione 09/11/2021
 # speciale tipo di vettori utilizzati x le variabili categoriche
 # variabile categorica = definisce numero finito di stati es. T espressa in bassa, media e alta
-# vogliamo creare un vettore di piante con classificazione in forme di crescita es. alberi, erbe, forbie
+# vogliamo creare un vettore di piante con classificazione in forme di crescita es. alberi, erbe, forbie(pianta erbacea a foglie larghe)
 # vogliamo che i valori diventino un factor, ovvero che rientrino solo all'interno delle 3 categorie
 # il tipo di forma di crescita è una variabile qualitativa
 #creo un vettore di tipo character
